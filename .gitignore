@@ -1,0 +1,7 @@
+/.idea
+/packages
+/bin/*
+!/bin/Debug
+/bin/Debug/*
+!/bin/Debug/app.publish
+/obj
